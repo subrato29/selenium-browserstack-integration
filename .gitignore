@@ -1,0 +1,7 @@
+_DS.Store
+.classpath
+.project
+.settings
+target
+test-output
+credential.txt
